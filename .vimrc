@@ -29,3 +29,4 @@ filetype plugin indent on    " required
 " Neal customizations:
 " set spell	" automatically enables spell-checking. uncomment to enable
 set number	" automatically enables line numbers. comment to disable.
+set ai		" automatically enables auto-indenting. comment to disable.
